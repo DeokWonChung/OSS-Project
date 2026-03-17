@@ -1,1 +1,1 @@
-printStep 4 progress
+print("hello world")
