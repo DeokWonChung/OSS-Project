@@ -1,4 +1,3 @@
 # OSS-Project
 Repository for OpenSourceSoftwareProject
-
-### Project info..
+정덕원, 2021112071
